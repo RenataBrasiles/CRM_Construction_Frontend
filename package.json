@@ -20,5 +20,14 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^5.0.2",
     "vite": "^7.1.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEU_USUARIO/CRM_Construction_Frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SEU_USUARIO/CRM_Construction_Frontend/issues"
+  },
+  "homepage": "https://github.com/SEU_USUARIO/CRM_Construction_Frontend#readme",
+  "type": "module"
 }
